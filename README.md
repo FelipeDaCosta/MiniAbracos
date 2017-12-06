@@ -16,6 +16,6 @@ O que falta fazer:
 - [ ] 2- Suportar múltiplos parâmetros tipados na declaracao de funções nomeadas (somente). A aplicação de função nomeada deve passar múltiplos argumentos.
 obs: considerar quando uma aplicação nomeada está bem tipada (numero de parametros correto, parametros com tipos corretos).
 
-- [ ] 3- Implementar expressão if then else
+- [X] 3- Implementar expressão if then else
 
 - [] 4- Corrigir os erros de compilação + testes disponibilizados

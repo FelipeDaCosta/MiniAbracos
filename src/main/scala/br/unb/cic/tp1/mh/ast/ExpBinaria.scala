@@ -21,7 +21,7 @@ abstract class ExpBinaria[T](rhs: Expressao, lhs: Expressao, tipo: Tipo) extends
     // Checa os tipos e joga exception ExpressaoInvalida se nao tiver correto
     // So faz isso quando a expressao for avaliada
     def checarTipos(): Unit = {
-        if(!rhs.isInstanceOf[T] || !lhs.isInstanceOf[T]) {
+        if(verificaTipo == TErro()) {
             throw ExpressaoInvalida()
         }
     }

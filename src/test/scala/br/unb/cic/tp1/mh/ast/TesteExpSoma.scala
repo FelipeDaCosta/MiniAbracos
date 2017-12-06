@@ -26,7 +26,4 @@ class TesteExpSoma extends FlatSpec with Matchers  {
 
     }
 
-
- 
-
 }

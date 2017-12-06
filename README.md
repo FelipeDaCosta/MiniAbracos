@@ -5,9 +5,9 @@ MiniHugs para TP1
 O que falta fazer:
 
 - [ ] 1- Implementar expressoes pendentes:
-- [ ] And
-- [ ] Or
-- [ ] Not
+- [X] And
+- [X] Or
+- [X] Not
 - [ ] Divisao
 - [ ] Multiplicacao 
 - [ ] Subtracao

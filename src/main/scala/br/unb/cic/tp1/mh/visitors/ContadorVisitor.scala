@@ -1,4 +1,5 @@
 package br.unb.cic.tp1.mh.visitors
+import br.unb.cic.tp1.mh.ast.ExpBinarias.ExpSoma
 import br.unb.cic.tp1.mh.ast._
 
 class ContadorVisitor extends Visitor {

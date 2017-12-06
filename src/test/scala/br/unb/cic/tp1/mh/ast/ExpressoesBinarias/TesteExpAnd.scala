@@ -1,5 +1,7 @@
-package br.unb.cic.tp1.mh.ast
+package br.unb.cic.tp1.mh.ast.ExpressoesBinarias
 
+import br.unb.cic.tp1.mh.ast.ExpBinarias.ExpAnd
+import br.unb.cic.tp1.mh.ast.ValorBooleano
 import org.scalatest.{FlatSpec, Matchers}
 
 /**

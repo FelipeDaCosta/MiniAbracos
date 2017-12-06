@@ -1,5 +1,6 @@
 package br.unb.cic.tp1.mh.ast
 
+import br.unb.cic.tp1.mh.ast.ExpBinarias.ExpSoma
 import br.unb.cic.tp1.mh.memoria.Ambiente
 import org.scalatest._
 

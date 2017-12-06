@@ -2,6 +2,7 @@ package br.unb.cic.tp1.mh.ast
 
 import org.scalatest._
 import br.unb.cic.tp1.exceptions.VariavelNaoDeclaradaException
+import br.unb.cic.tp1.mh.ast.ExpBinarias.ExpSoma
 import br.unb.cic.tp1.mh.memoria.Ambiente
 
 class TesteExpLet extends FlatSpec with Matchers {

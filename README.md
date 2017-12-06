@@ -8,9 +8,9 @@ O que falta fazer:
 - [X] And
 - [X] Or
 - [X] Not
-- [ ] Divisao
-- [ ] Multiplicacao 
-- [ ] Subtracao
+- [X] Divisao
+- [X] Multiplicacao
+- [X] Subtracao
 - [ ] Operadores relacionais
 
 - [ ] 2- Suportar múltiplos parâmetros tipados na declaracao de funções nomeadas (somente). A aplicação de função nomeada deve passar múltiplos argumentos.

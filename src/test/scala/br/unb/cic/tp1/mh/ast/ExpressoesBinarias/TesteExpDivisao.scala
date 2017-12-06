@@ -1,6 +1,8 @@
-package br.unb.cic.tp1.mh.ast
+package br.unb.cic.tp1.mh.ast.ExpressoesBinarias
 
 import br.unb.cic.tp1.exceptions.ExpressaoInvalida
+import br.unb.cic.tp1.mh.ast.ExpBinarias.ExpDivisao
+import br.unb.cic.tp1.mh.ast.{ValorBooleano, ValorInteiro}
 import org.scalatest.{FlatSpec, Matchers}
 
 /**

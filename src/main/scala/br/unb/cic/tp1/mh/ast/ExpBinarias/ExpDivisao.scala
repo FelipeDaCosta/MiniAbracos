@@ -1,4 +1,6 @@
-package br.unb.cic.tp1.mh.ast
+package br.unb.cic.tp1.mh.ast.ExpBinarias
+
+import br.unb.cic.tp1.mh.ast._
 import br.unb.cic.tp1.mh.visitors.Visitor
 
 /**

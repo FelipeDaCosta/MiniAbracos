@@ -1,7 +1,8 @@
-package br.unb.cic.tp1.mh.ast
+package br.unb.cic.tp1.mh.ast.ExpressoesBinarias
 
 import br.unb.cic.tp1.exceptions.ExpressaoInvalida
-import br.unb.cic.tp1.mh.ast
+import br.unb.cic.tp1.mh.ast.ExpBinarias.ExpOr
+import br.unb.cic.tp1.mh.ast.{ValorBooleano, ValorInteiro}
 import org.scalatest._
 
 class TesteExpOr extends FlatSpec with Matchers  {

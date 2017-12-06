@@ -1,5 +1,6 @@
-package br.unb.cic.tp1.mh.ast
-import br.unb.cic.tp1.exceptions.ExpressaoInvalida
+package br.unb.cic.tp1.mh.ast.ExpBinarias
+
+import br.unb.cic.tp1.mh.ast.{Expressao, TInt, Valor, ValorInteiro}
 import br.unb.cic.tp1.mh.visitors.Visitor
 
 case class ExpSoma(rhs : Expressao, lhs : Expressao) extends ExpBinaria[ValorInteiro](rhs, lhs, TInt()) {

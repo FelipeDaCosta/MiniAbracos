@@ -1,7 +1,7 @@
 package br.unb.cic.tp1.mh.ast.ExpBinarias
 
 import br.unb.cic.tp1.exceptions.ExpressaoInvalida
-import br.unb.cic.tp1.mh.ast.{Expressao, TErro, Tipo, Valor}
+import br.unb.cic.tp1.mh.ast._
 
 /**
   * Created by felipecosta on 12/6/17.
